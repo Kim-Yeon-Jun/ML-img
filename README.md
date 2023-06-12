@@ -1,5 +1,5 @@
 # ML_img
-# This folder will use for training keras.sequential model image calssifiation
+# This folder will use for training keras.sequential model image classification
 
 
 <이미지 분류기 사용설명서>
